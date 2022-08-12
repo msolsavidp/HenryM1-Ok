@@ -39,8 +39,8 @@ de la función 10
                8
                8
                9
-10 del contexto global - duda
-1 del contexto global - duda*/
+10 del contexto global 
+1 del contexto global */
 
 ```
 
