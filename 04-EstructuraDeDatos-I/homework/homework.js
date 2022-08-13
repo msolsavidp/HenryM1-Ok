@@ -21,7 +21,7 @@ Como ejercicio adicional y completamente opcional, al terminar de resolver este 
  pueden intentar definir funciones que logren los mismos resultados pero de manera 
  iterativa.
 */
-
+//
 function nFactorial(n) {
   if (n === 0){
     return 1;}
